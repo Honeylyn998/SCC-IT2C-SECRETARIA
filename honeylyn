@@ -1,0 +1,24 @@
+
+package honey;
+import java.util.Scanner;
+
+public class Honey {
+
+    
+    public static void main(String[] args) {
+        
+//        
+//        netpay np = new netpay();
+//        np.getPay();
+        
+//        grades gr = new grades();
+//        gr.addGrades(1111, "bubby", 1.2, 1.4, 1.3, 1.2);
+//        gr.viewGrades();
+//        
+        product pr = new product ();
+        pr.addProduct(10011,"Soap", 30,30,20);
+        pr.viewProduct();
+    }
+    }
+    
+
