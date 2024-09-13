@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class SecretariaJava {
 
     public static void main(String[] args) {
+        Scanner sc = new Scanner(Sytem.in);
          
 //Netpay np = new Netpay();
      //   np.getPay();
